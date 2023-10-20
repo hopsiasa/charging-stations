@@ -36,4 +36,9 @@ Or to run it from docker:
 `php artisan  sail:install`
 
 `./vendor/bin/sail up`
+
+URL for API docs 
+
+`/api/documentation`
+
  
